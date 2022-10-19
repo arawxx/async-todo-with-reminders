@@ -1,4 +1,4 @@
-# Asynchronous Todo app with async reminding functionality using Telegram bots (Backend-side)
+# Asynchronous Reminding Todo app with full async functionality using Telegram bots (Backend-side)
 
 
 ## Technologies used:
