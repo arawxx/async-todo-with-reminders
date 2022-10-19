@@ -41,6 +41,8 @@ You also need to create a single `.env` file and specify the below required envi
 
 Note: Put these all inside one file named `.env`
 
+Note: If launching without Docker, you need to first load the environment variables, e.g. using `dotenv` module's `load_dotenv()` method
+
 Note: `Secret_key` and `Algorithm` are used for login token handling
 
 ### Docker
